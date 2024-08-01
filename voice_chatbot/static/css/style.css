@@ -1,0 +1,31 @@
+.reload-btn, .download-btn, .stop-btn {
+    float:right;
+    margin: 10px;
+}
+
+body {
+    font-size: 20px; /* Adjust this value as needed */
+}
+
+h2 {
+    font-size: 2em;
+}
+
+button {
+    font-size: 1.2em;
+}
+
+.form-control {
+    font-size: 1.2em;
+}
+
+#status, #recognizedText {
+    font-size: 1.2em;
+}
+
+#transcription {
+    font-size: 1.2em;
+}
+#startStopBtn{
+    margin-top: 20px;
+}
